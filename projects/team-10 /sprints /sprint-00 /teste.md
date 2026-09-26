@@ -5,7 +5,7 @@
 * **Membro da equipe:** 
 * Leandro Alexandre (@leandroASJ)
 * Marcos Miguel (@marcosmig08)
-* **Nome do projeto: Lar de patas**
+* **Nome do projeto:** Lar de patas
   
 
 ## Development Environment Status
