@@ -21,6 +21,21 @@
 
 ---
 
+## Acceptance Criteria Validation
+
+- [x] **AC-01** — Team members are identified (Matheus Gabriel & Paulo Vitor).
+- [x] **AC-02** — Git is correctly configured (`user.name`, `user.email`, credential helper).
+- [x] **AC-03** — The course repository has been forked (`MatheusGabriel-25/mobile-development-2026-2`).
+- [x] **AC-04** — A Sprint branch has been created (`team-05-sprint-00`).
+- [x] **AC-05** — Android Studio is installed.
+- [x] **AC-06** — Android SDK is configured.
+- [x] **AC-07** — An Android Emulator or physical device is available.
+- [x] **AC-08** — An Android application builds successfully (`com.team05.sarc`).
+- [x] **AC-09** — The application runs without crashing.
+- [x] **AC-10** — At least one commit has been created.
+- [x] **AC-11** — A Pull Request has been submitted (PR #7 merged into upstream/main).
+
+---
 ## Dificuldades encontradas
 * Alta lentidão na máquina da UNEMAT, pelo emulador consumir muita memoria.
 
