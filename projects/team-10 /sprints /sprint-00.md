@@ -36,7 +36,7 @@
 
 ---
 ## Dificuldades encontradas
-* Alta lentidão na máquina da UNEMAT, pelo emulador consumir muita memoria.
+*A principal dificuldade encontrada foi relacionada ao funcionamento do Android Studio.
 
 ---
 
