@@ -1,4 +1,4 @@
-# Team 08 — SPRINT 00
+# Team 10 — SPRINT 00
 
 ## Team Information
 * **Número da equipe:** Team 10
