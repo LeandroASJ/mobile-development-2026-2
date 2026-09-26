@@ -6,16 +6,20 @@
 * Leandro Alexandre (@leandroASJ)
 * Marcos Miguel (@marcosmig08)
 * **Nome do projeto:** Lar de patas
-  
+
+  ---
 
 ## Development Environment Status
-* **Git Configuration:** Configured & operational (AC-02)
-* **Course Repository Forked:** Forked to team workspace (AC-03)
-* **Sprint Branch:** `team-10/sprint-00` created (AC-04)
-* **Android Studio:** Installed & configured (AC-05)
-* **Android SDK:** Configured (Target API 37 / Android 16+) (AC-06)
-* **Android Emulator:** Pixel 10a (API 37.2, x86_64, 2GB RAM, Google APIs) - Configured and running (AC-07)
-* **Application Status:** Kotlin + Jetpack Compose app created, builds successfully (AC-08) and runs without crashing (AC-09)
+
+| Component             |    Status     | Details                                                                 |
+| :-------------------- | :-----------: | :---------------------------------------------------------------------- |
+| **Android Studio**    | ✅ Configurado | Android Studio Ladybug / Koala Feature Drop instalado                   |
+| **Android SDK**       | ✅ Configurado | SDK Platform 34 / 37, Build Tools e Platform-Tools instalados           |
+| **Kotlin & Compose**  | ✅ Configurado | Kotlin 2.x + Jetpack Compose (Material 3)                               |
+| **Device / Emulator** | ✅ Configurado | Emulador Android Virtual Device (AVD) e dispositivo físico configurados |
+| **Git & GitHub**      | ✅ Configurado | Fork realizado, remotes origin e upstream configurados                  |
+
+---
 
 ## Dificuldades encontradas
 * Alta lentidão na máquina da UNEMAT, pelo emulador consumir muita memoria.
