@@ -24,6 +24,8 @@
 ## Dificuldades encontradas
 * Alta lentidão na máquina da UNEMAT, pelo emulador consumir muita memoria.
 
+---
+
 ## Evidências do aplicativo android 
 * projects/team-10 /evidence /sprint-00 /android-running.md
 
