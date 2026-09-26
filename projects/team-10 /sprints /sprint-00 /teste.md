@@ -2,7 +2,7 @@
 
 ## Team Information
 * **Número da equipe:** Team 10
-* **Membro da equipe::** 
+* **Membro da equipe:** 
 * Leandro Alexandre (@leandroASJ)
 * Marcos Miguel (@marcosmig08)
 * **Nome do projeto::**
