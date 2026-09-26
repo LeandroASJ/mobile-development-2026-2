@@ -24,4 +24,4 @@
 
 ## Evidencia de aplicativo Android
 
-![App Execution Screen](app_screenshot.png)
+
