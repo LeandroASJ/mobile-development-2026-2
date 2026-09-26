@@ -18,7 +18,7 @@
 * **Application Status:** Kotlin + Jetpack Compose app created, builds successfully (AC-08) and runs without crashing (AC-09)
 
 ## Evidências do aplicativo android 
-  projects/team-10 /evidence /sprint-00 /android-running.md
+  * projects/team-10 /evidence /sprint-00 /android-running.md
 
 
 
