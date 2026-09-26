@@ -17,6 +17,9 @@
 * **Android Emulator:** Pixel 10a (API 37.2, x86_64, 2GB RAM, Google APIs) - Configured and running (AC-07)
 * **Application Status:** Kotlin + Jetpack Compose app created, builds successfully (AC-08) and runs without crashing (AC-09)
 
+## Evidências do aplicativo android 
+  projects/team-10 /evidence /sprint-00 /android-running.md
+
 
 
 ## Dificuldades encontradas
