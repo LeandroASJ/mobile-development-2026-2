@@ -33,7 +33,6 @@
 - [x] **AC-08** — An Android application builds successfully (`com.team10.sarc`).
 - [x] **AC-09** — The application runs without crashing.
 - [x] **AC-10** — At least one commit has been created.
-- [x] **AC-11** — A Pull Request has been submitted (PR #7 merged into upstream/main).
 
 ---
 ## Dificuldades encontradas
